@@ -1,0 +1,33 @@
+ad_id,role,language,text_length_chars,sampling_rationale
+JOB_0004,AI Manager,en,1371.0,Short ad; governance-focused title (Responsible AI Governance); tests GT2/GT5 on minimal text
+JOB_0022,AI Manager,en,5509.0,Senior AI Governance Manager; large insurer SG; strong GT2/GT5 signals
+JOB_0012,AI Manager,de,3637.0,German DE; mid-size energy firm; Data & AI Manager; tests codebook on non-EN
+JOB_0031,AI Manager,en,7296.0,Long EN; healthcare; AI Solutions Manager; operationally varied
+JOB_0155,AI Manager,en,6137.0,AI Transformation Managing Principal; borderline strategic vs operational
+JOB_0033,Head of AI,en,7444.0,Head of AI Center of Excellence; strong GT1 federating/CoE signal
+JOB_0216,Head of AI,en,7256.0,Head of AI Competence Center; DE energy/oil; long; GT1/GT3
+JOB_0224,Head of AI,en,6439.0,Director AI Governance First Line; Canadian bank; GT2/GT4 anchor
+JOB_0300,Head of AI,en,8824.0,Head of AI Strategy; large insurer; long; GT1/GT3/GT5 likely
+JOB_0214,Head of AI,de,2097.0,German DE short; Head of AI Solutions Insurance; tests short DE ads
+JOB_0523,Chief AI Officer,en,7309.0,CHIEF AI OFFICER; hospital system; long; GT1/GT4/GT5 anchor
+JOB_0526,Chief AI Officer,en,6546.0,Chief AI Officer; government/public sector; GT2/GT5 anchor
+JOB_0509,Chief AI Officer,en,5318.0,Chief AI Officer JD Group; mid-size software; mixed strategy+tech
+JOB_0566,Chief AI Officer,en,5379.0,Chief Artificial Intelligence Officer; finserv; moderate length
+JOB_0510,Chief AI Officer,de,2174.0,German DE very short; small construction firm; borderline CAIO scope
+JOB_0633,AI Lead,de,4842.0,German DE; Daimler Buses; AI Lead in Digital Transformation Office; GT1/GT3
+JOB_0637,AI Lead,en,5184.0,AI Governance & Enablement Lead; higher education AU; GT2/GT4
+JOB_0645,AI Lead,en,14616.0,Commercial Data & AI Lead; very long NL; rich for inductive analysis
+JOB_0659,AI Lead,en,6500.0,Senior Principal AI Transformation Lead; borderline Lead vs Manager
+JOB_0707,AI Lead,en,5786.0,AI/ML Data Management & Governance Lead; automotive EV; GT4 strong
+JOB_0030,CTO,en,11672.0,VP/CTO large insurer; very long; broad tech governance comparison anchor
+JOB_0944,CTO,en,6184.0,CTO AI startup DE-based; comparison for AI-adjacent CTO
+JOB_0081,CTO,en,8071.0,Field CTO cybersecurity/cloud; long; GT3 comparison anchor
+JOB_0005,CTO,de,4149.0,German DE CTO; small firm; DE language comparison
+JOB_0094,CTO,en,7608.0,CTO large bank; GT1/GT4 comparison vs CAIO
+JOB_0035,CIO,en,8644.0,CIO OptumRx large healthcare; long; GT1/GT3 comparison
+JOB_0075,CIO,en,10637.0,CIO public transport; very long; GT1 anchor
+JOB_0117,CIO,en,10543.0,CIO large insurer; financial services comparison
+JOB_0160,CIO,de,7001.0,German DE CIO university; DE language comparison anchor
+JOB_0114,CDO,en,10704.0,Chief Digital Officer banking; very long; GT1/GT2 comparison
+JOB_0208,CDO,en,11488.0,Chief Digital & Innovation Officer non-profit; very long; GT2 comparison
+JOB_0206,CDO,en,5349.0,EVP Chief Digital Officer finserv; moderate length
