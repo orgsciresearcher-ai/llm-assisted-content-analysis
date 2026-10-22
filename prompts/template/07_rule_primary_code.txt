@@ -1,0 +1,3 @@
+## CRITICAL RULE: PRIMARY CODE PRIORITIZATION
+
+When a passage addresses several codes, assign all codes that are clearly and substantively present. If one is clearly dominant and others are only marginally implied, assign only the dominant code and note the secondary one in the Rationale. The threshold: would a trained human coder independently identify this code from the passage alone? If yes, assign it. If no, note it in the Rationale only.

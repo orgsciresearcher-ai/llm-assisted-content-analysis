@@ -1,0 +1,25 @@
+## OUTPUT FORMAT
+
+Return a JSON array. Each element represents one coded passage. Use this structure:
+
+{
+  "Seg_ID": "<Doc_ID>_S<sequential number starting at 01>",
+  "Doc_ID": "<provided Doc_ID>",
+  "Text_Segment": "<exact extracted text from the document>",
+  "L1_Code": "<semicolon-separated Layer 1 codes, or NONE>",
+  "L2_Code": "<semicolon-separated Layer 2 codes, or NONE>",
+  "Inductive_Code": "<short free-text label if a new pattern appears, else null>",
+  "Confidence": "<HIGH / MEDIUM / LOW>",
+  "Rationale": "<2-4 sentences: which words triggered which codes, and whether contextual eligibility was used>"
+}
+
+Important output rules:
+- Return ONLY a valid JSON array. No text outside the JSON.
+- Extract Text_Segment verbatim from the document. Do not paraphrase or summarize.
+- Always write the Rationale in English.
+
+## EXAMPLES
+
+[[TWO_OR_THREE_WORKED_EXAMPLES]]
+
+// Take worked examples only from documents that are not part of any validation sample. See guide/03_prompt.md.

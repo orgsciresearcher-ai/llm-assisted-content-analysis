@@ -1,0 +1,21 @@
+## CODEBOOK
+
+### LAYER 1: [[LAYER_1_NAME]]
+
+Apply to: [[SECTION_TYPES_FOR_LAYER_1]].
+
+[[CODE_ID]] | [[CODE_LABEL]]
+Definition: [[WHAT_THE_CODE_CAPTURES]]
+Code when: [[OBSERVABLE_CONDITION]]. NOT [[EXCLUSION]].
+Indicators: "[[TYPICAL_PHRASE_1]]", "[[TYPICAL_PHRASE_2]]"
+
+// Repeat for every code. tools/build_delabeled_prompt.py shows how to derive a copy with neutral IDs and no theoretical labels.
+
+### LAYER 2: [[LAYER_2_NAME]]
+
+Apply to: [[SECTION_TYPES_FOR_LAYER_2]].
+
+[[CODE_ID]] | [[CODE_LABEL]]
+Definition: [[WHAT_THE_CODE_CAPTURES]]
+Code when: [[OBSERVABLE_CONDITION]].
+Indicators: "[[TYPICAL_PHRASE_1]]", "[[TYPICAL_PHRASE_2]]"

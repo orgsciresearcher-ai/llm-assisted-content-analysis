@@ -1,0 +1,3 @@
+## CRITICAL RULE: MULTIPLE CODES
+
+A single passage may receive codes from both layers if it [[CONDITION_FOR_DUAL_CODING]]. A passage may also receive several codes from one layer.

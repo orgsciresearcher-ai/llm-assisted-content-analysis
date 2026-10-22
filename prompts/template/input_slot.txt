@@ -1,0 +1,7 @@
+## INPUT
+
+Doc_ID: {doc_id}
+Language: {language}
+
+Full document text:
+{full_text}

@@ -1,0 +1,5 @@
+## CRITICAL RULE: SECTION SCOPE
+
+- [[LAYER_1_PREFIX]] codes (Layer 1) are assigned EXCLUSIVELY to passages in [[SECTION_TYPES_FOR_LAYER_1]].
+- [[LAYER_2_PREFIX]] codes (Layer 2) are assigned EXCLUSIVELY to passages in [[SECTION_TYPES_FOR_LAYER_2]].
+- If the document has no section headings, decide by the content of the passage and state this in the Rationale.

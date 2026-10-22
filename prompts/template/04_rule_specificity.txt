@@ -1,0 +1,9 @@
+## CRITICAL RULE: ELIGIBILITY REQUIREMENT
+
+Before coding any passage, check whether it is eligible. A passage is eligible ONLY if [[ELIGIBILITY_CONDITION, e.g. it refers to the phenomenon of interest explicitly]].
+
+Two forms of eligibility exist:
+1. EXPLICIT: the passage names [[THE_PHENOMENON]] directly.
+2. CONTEXTUAL: the passage does not name it, but sits within a section that is clearly dedicated to it and cannot be read otherwise. When coding on the basis of contextual eligibility, confidence must be set to Medium or Low.
+
+// Record which form applied. In our first run, this rule drove most MEDIUM confidence ratings, so confidence partly recorded the rule rather than uncertainty. See guide/07_calibration_and_curve.md.

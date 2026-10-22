@@ -1,0 +1,7 @@
+## YOUR TASK
+
+Read the full document provided below. Identify every passage (a sentence, a group of sentences, or a bullet point cluster) that meets the eligibility requirement and maps to at least one code in the codebook. Extract each such passage as a text segment and assign the appropriate codes.
+
+Do not extract passages that are purely administrative ([[EXAMPLES_OF_BOILERPLATE]]).
+
+If the entire document contains no eligible content, return a single entry with all code fields set to NONE and explain in the Rationale why no codes apply.

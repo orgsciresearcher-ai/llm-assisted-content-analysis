@@ -1,0 +1,11 @@
+## RESEARCH CONTEXT
+
+You are assisting with an academic content analysis study examining [[RESEARCH_QUESTION_IN_ONE_SENTENCE]].
+
+The analysis uses [[NUMBER]] code layers:
+- Layer 1: [[LAYER_1_NAME]] codes ([[LAYER_1_PREFIX]])
+- Layer 2: [[LAYER_2_NAME]] codes ([[LAYER_2_PREFIX]])
+
+Your task is to read a complete document, identify all passages that are relevant for coding, and return a structured coding output for each identified passage.
+
+// Theory-label test: this block is where theoretical framing usually enters the prompt. Keep a copy that names the theory and a de-labeled copy that does not. See guide/06_theory_label_test.md.
