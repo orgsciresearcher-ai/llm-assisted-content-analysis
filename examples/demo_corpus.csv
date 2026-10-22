@@ -1,0 +1,31 @@
+doc_id,role,language,full_text
+DEMO_001,Head of AI,en,"Head of AI, Example Manufacturing Ltd.
+
+Responsibilities:
+Own the enterprise AI strategy and define AI standards and policies for all business units.
+Set up an AI center of excellence that coordinates AI projects across divisions.
+Establish an AI governance framework, including a review board for high-risk use cases.
+
+Requirements:
+10+ years in data science or machine learning, including deployment of ML models.
+Strong business acumen in industrial manufacturing.
+
+We offer a competitive salary and hybrid work."
+DEMO_002,CIO,en,"Chief Information Officer, Example Services Inc.
+
+Responsibilities:
+Lead the IT organization, infrastructure, and cybersecurity.
+Manage the ERP roadmap and vendor contracts.
+
+Requirements:
+Experience as IT executive in a regulated industry.
+
+Apply via our careers page."
+DEMO_003,AI Manager,en,"AI Manager, Example Retail Group
+
+AI Governance
+Monitor model performance and drift and report incidents to the risk committee.
+Ensure human oversight for automated pricing decisions.
+
+Requirements:
+Knowledge of Python and cloud AI platforms."

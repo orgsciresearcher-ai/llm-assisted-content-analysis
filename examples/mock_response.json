@@ -1,0 +1,24 @@
+[
+  {
+    "Seg_ID": "DEMO_001_S01",
+    "Ad_ID": "DEMO_001",
+    "Role_Family": "Head of AI",
+    "Text_Segment": "Own the enterprise AI strategy and define AI standards and policies for all business units.",
+    "GT_Code": "GT1.1",
+    "SK_Code": "NONE",
+    "Inductive_Code": null,
+    "Confidence": "HIGH",
+    "Rationale": "Mock output for testing the pipeline without an API call."
+  },
+  {
+    "Seg_ID": "DEMO_001_S02",
+    "Ad_ID": "DEMO_001",
+    "Role_Family": "Head of AI",
+    "Text_Segment": "Set up an AI center of excellence that coordinates AI projects across divisions",
+    "GT_Code": "GT1.2; GT9.9",
+    "SK_Code": "NONE",
+    "Inductive_Code": null,
+    "Confidence": "MEDIUM",
+    "Rationale": "Mock output. GT9.9 is not in the codebook and should be flagged."
+  }
+]
