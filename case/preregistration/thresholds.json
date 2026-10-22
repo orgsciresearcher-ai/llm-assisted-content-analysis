@@ -1,0 +1,12 @@
+{
+  "fixed_on": "2026-10-19",
+  "kappa_drop": 0.10,
+  "ci_level": 0.95,
+  "n_boot": 2000,
+  "seed": 20261101,
+  "gap_min": 0.10,
+  "agreement_target": 0.90,
+  "calibration_sample": {"LOW": "all", "MEDIUM_contextual": 50, "MEDIUM_lexical": 50, "HIGH": 100, "seed": 20261101},
+  "adjudication_cells": {"n": 50, "seed": 20261101},
+  "document_sample_phase2": {"share": 0.10, "seed": 20261101}
+}
