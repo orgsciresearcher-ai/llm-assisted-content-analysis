@@ -1,0 +1,2 @@
+code,label,layer,group,definition,code_when,indicators
+C1.1,<short label>,<layer or dimension>,"<theoretical group, optional>",<what the code captures>,<observable condition for assigning the code; add NOT ... for exclusions>,"<""typical phrase 1"", ""typical phrase 2"">"
