@@ -1,0 +1,21 @@
+code_B,code_A,label_A,group_A
+L1-01,GT1.1,Enterprise AI ownership & standards,GT1: Centralization of AI decision rights vs. decentralized experimentation
+L1-02,GT1.2,Federated coordination across BUs,GT1: Centralization of AI decision rights vs. decentralized experimentation
+L1-03,GT1.3,Local experimentation enablement,GT1: Centralization of AI decision rights vs. decentralized experimentation
+L1-04,GT2.1,AI opportunity creation & experimentation,"GT2: Innovation and generativity vs. control, risk, and compliance"
+L1-05,GT2.2,"Responsible AI, risk & compliance","GT2: Innovation and generativity vs. control, risk, and compliance"
+L1-06,GT2.3,Governance frameworks & controls,"GT2: Innovation and generativity vs. control, risk, and compliance"
+L1-07,GT2.4,AI enablement & change management,"GT2: Innovation and generativity vs. control, risk, and compliance"
+L1-08,GT3.1,Deep AI/ML/GenAI expertise,GT3: Technical and model-specific expertise vs. enterprise strategic alignment
+L1-09,GT3.2,AI strategy & business value alignment,GT3: Technical and model-specific expertise vs. enterprise strategic alignment
+L1-10,GT3.3,Business-technical translation,GT3: Technical and model-specific expertise vs. enterprise strategic alignment
+L1-11,GT4.1,Data governance responsibility,GT4: Data governance vs. model governance & lifecycle accountability
+L1-12,GT4.2,Model lifecycle governance,GT4: Data governance vs. model governance & lifecycle accountability
+L1-13,GT4.3,"Model risk, validation & monitoring",GT4: Data governance vs. model governance & lifecycle accountability
+L1-14,GT5.1,Human oversight & final accountability,GT5: Algorithmic autonomy & opacity vs. human accountability
+L1-15,GT5.2,"Explainability, transparency & documentation",GT5: Algorithmic autonomy & opacity vs. human accountability
+L1-16,GT5.3,"Fairness, bias & safety protection",GT5: Algorithmic autonomy & opacity vs. human accountability
+L1-17,GT5.4,Trustbuilding with stakeholders,GT5: Algorithmic autonomy & opacity vs. human accountability
+L2-01,SK1,Technical IT/AI knowledge,
+L2-02,SK2,Business/domain knowledge,
+L2-03,SK3,Systems/integration knowledge,
