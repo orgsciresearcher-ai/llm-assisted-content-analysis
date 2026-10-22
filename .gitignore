@@ -1,0 +1,23 @@
+# secrets
+.env
+*.key
+
+# local working data (full texts must not be committed; see case/README.md)
+runs/
+sheets/
+local/
+*full_text*.csv
+*full_texts*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS and editors
+.DS_Store
+Thumbs.db
+~$*
+.idea/
+.vscode/
